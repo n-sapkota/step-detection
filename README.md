@@ -1,2 +1,2 @@
 # step-detection
-step detection using machine learning in python
+Step Detection using Machine Learning
